@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedant27bit/leetcode-journey/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/vedant27bit/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vedant27bit/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/vedant27bit/leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/vedant27bit/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/vedant27bit/leetcode-journey/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/vedant27bit/leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/vedant27bit/leetcode-journey/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
