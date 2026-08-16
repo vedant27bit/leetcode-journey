@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vedant27bit/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/vedant27bit/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vedant27bit/leetcode-journey/tree/master/0014-longest-common-prefix) |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vedant27bit/leetcode-journey/tree/master/0012-integer-to-roman) |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## String
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vedant27bit/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -97,4 +100,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Minimax
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
+## Counting
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
+## Game Theory
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
