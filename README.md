@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vedant27bit/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/vedant27bit/leetcode-journey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedant27bit/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0027-remove-element) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vedant27bit/leetcode-journey/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vedant27bit/leetcode-journey/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vedant27bit/leetcode-journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Greedy
 |  |
