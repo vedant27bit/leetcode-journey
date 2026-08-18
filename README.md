@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedant27bit/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Hash Table
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vedant27bit/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Binary Search
 |  |
 | ------- |
