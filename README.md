@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedant27bit/leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
 |  |
 | ------- |
