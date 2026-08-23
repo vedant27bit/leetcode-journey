@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedant27bit/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/vedant27bit/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
