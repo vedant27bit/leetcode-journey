@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vedant27bit/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vedant27bit/leetcode-journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vedant27bit/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vedant27bit/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/vedant27bit/leetcode-journey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/vedant27bit/leetcode-journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/vedant27bit/leetcode-journey/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
@@ -173,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
