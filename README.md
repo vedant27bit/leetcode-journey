@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/vedant27bit/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vedant27bit/leetcode-journey/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/vedant27bit/leetcode-journey/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vedant27bit/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vedant27bit/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
