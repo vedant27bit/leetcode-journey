@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vedant27bit/leetcode-journey/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/vedant27bit/leetcode-journey/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vedant27bit/leetcode-journey/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vedant27bit/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Two Pointers
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vedant27bit/leetcode-journey/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
