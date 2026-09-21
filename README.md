@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/vedant27bit/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant27bit/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/vedant27bit/leetcode-journey/tree/master/0238-product-of-array-except-self) |
 | [3903-smallest-stable-index-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/3904-smallest-stable-index-ii) |
 ## Enumeration
