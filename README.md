@@ -245,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/vedant27bit/leetcode-journey/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vedant27bit/leetcode-journey/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vedant27bit/leetcode-journey/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
