@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/vedant27bit/leetcode-journey/tree/master/0238-product-of-array-except-self) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant27bit/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vedant27bit/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vedant27bit/leetcode-journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vedant27bit/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedant27bit/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vedant27bit/leetcode-journey/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/vedant27bit/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedant27bit/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -229,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
