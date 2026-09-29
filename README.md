@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/vedant27bit/leetcode-journey/tree/master/0383-ransom-note) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/vedant27bit/leetcode-journey/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/vedant27bit/leetcode-journey/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vedant27bit/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/vedant27bit/leetcode-journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/vedant27bit/leetcode-journey/tree/master/0383-ransom-note) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vedant27bit/leetcode-journey/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/vedant27bit/leetcode-journey/tree/master/0383-ransom-note) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
