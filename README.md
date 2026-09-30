@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vedant27bit/leetcode-journey/tree/master/0021-merge-two-sorted-lists) |
+| [0326-power-of-three](https://github.com/vedant27bit/leetcode-journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vedant27bit/leetcode-journey/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vedant27bit/leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/vedant27bit/leetcode-journey/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/vedant27bit/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
