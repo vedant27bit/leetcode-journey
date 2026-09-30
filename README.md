@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/vedant27bit/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/vedant27bit/leetcode-journey/tree/master/0326-power-of-three) |
+| [0412-fizz-buzz](https://github.com/vedant27bit/leetcode-journey/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/vedant27bit/leetcode-journey/tree/master/0836-rectangle-overlap) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vedant27bit/leetcode-journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vedant27bit/leetcode-journey/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/vedant27bit/leetcode-journey/tree/master/0412-fizz-buzz) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vedant27bit/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/vedant27bit/leetcode-journey/tree/master/0412-fizz-buzz) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vedant27bit/leetcode-journey/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Sorting
 |  |
