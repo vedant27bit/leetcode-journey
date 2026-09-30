@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/vedant27bit/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
+| [0164-maximum-gap](https://github.com/vedant27bit/leetcode-journey/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vedant27bit/leetcode-journey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/vedant27bit/leetcode-journey/tree/master/0015-3sum) |
+| [0164-maximum-gap](https://github.com/vedant27bit/leetcode-journey/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0229-majority-element-ii) |
@@ -290,4 +292,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vedant27bit/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vedant27bit/leetcode-journey/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vedant27bit/leetcode-journey/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/vedant27bit/leetcode-journey/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
