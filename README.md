@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/vedant27bit/leetcode-journey/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/vedant27bit/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/vedant27bit/leetcode-journey/tree/master/0070-climbing-stairs) |
+| [0338-counting-bits](https://github.com/vedant27bit/leetcode-journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/vedant27bit/leetcode-journey/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/vedant27bit/leetcode-journey/tree/master/0338-counting-bits) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/vedant27bit/leetcode-journey/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Trie
 |  |
