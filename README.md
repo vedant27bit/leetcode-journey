@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/vedant27bit/leetcode-journey/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/vedant27bit/leetcode-journey/tree/master/0412-fizz-buzz) |
+| [0678-valid-parenthesis-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vedant27bit/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vedant27bit/leetcode-journey/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [2029-stone-game-ix](https://github.com/vedant27bit/leetcode-journey/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vedant27bit/leetcode-journey/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Dynamic Programming
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vedant27bit/leetcode-journey/tree/master/0070-climbing-stairs) |
 | [0338-counting-bits](https://github.com/vedant27bit/leetcode-journey/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/vedant27bit/leetcode-journey/tree/master/0155-min-stack) |
+| [0678-valid-parenthesis-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vedant27bit/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/vedant27bit/leetcode-journey/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vedant27bit/leetcode-journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vedant27bit/leetcode-journey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
