@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/vedant27bit/leetcode-journey/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/vedant27bit/leetcode-journey/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/vedant27bit/leetcode-journey/tree/master/0039-combination-sum) |
+| [0041-first-missing-positive](https://github.com/vedant27bit/leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/vedant27bit/leetcode-journey/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/vedant27bit/leetcode-journey/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0136-single-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/vedant27bit/leetcode-journey/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vedant27bit/leetcode-journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/vedant27bit/leetcode-journey/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/vedant27bit/leetcode-journey/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/vedant27bit/leetcode-journey/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vedant27bit/leetcode-journey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/vedant27bit/leetcode-journey/tree/master/0219-contains-duplicate-ii) |
